@@ -1,0 +1,37 @@
+/* p{
+    color:rgb(176, 127, 255);
+}
+h4{
+    color:yellow;
+}
+button{
+    color:mediumorchid;
+    width:150px;
+    height:150px;
+    background-color: turquoise;
+}
+div{
+    color:red;
+}
+body{
+    background-color:rgb(255, 196, 0);
+}
+.myclass{
+    color:salmon;
+} */
+
+div{
+    background-color: blue;
+    text-align:center;
+}
+
+#box{
+    background-color: blueviolet;
+}
+.myclass{
+    background-color: aquamarine;
+}
+h3{
+    color:brown;
+    text-align:center;
+}
