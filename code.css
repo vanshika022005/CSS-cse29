@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    padding: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.output-box {
+    border: 2px solid #ccc;
+    padding: 20px;
+    background: white;
+    width: fit-content;
+}
+
+.card {
+    display: inline-block;      /* MAIN POINT */
+    width: 150px;
+    height: 200px;
+    margin-right: 20px;
+    text-align: center;
+    padding-top: 40px;
+    color: #333;
+    font-size: 20px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+.card p {
+    margin-top: 25px;
+    font-size: 18px;
+}
+
+/* Colors similar to screenshot */
+.book {
+    background: #e6d574;
+}
+
+.headphone {
+    background: #e09aa8;
+}
+
+.watch {
+    background: #9dc3d4;
+}
