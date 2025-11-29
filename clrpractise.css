@@ -1,0 +1,37 @@
+body {
+    
+    background: white;
+    padding: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+
+.container {
+    background: #834e5b;
+    padding: 20px;
+    border: 2px solid #c8b4b8;
+    max-width: 750px;
+}
+
+.float-img {
+    float: left;
+    width: 250px;
+    height: auto;
+    margin-right: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.footer {
+    clear: both;               
+    margin-top: 20px;
+    padding: 10px;
+    background: #ddb8c4;
+    font-size: 18px;
+}
