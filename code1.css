@@ -1,0 +1,37 @@
+h1{
+    color:aquamarine;
+}
+p{
+    color:blueviolet;
+}
+button{
+    background-color:beige;
+    color:rgb(220, 220, 226);
+}
+body{
+    background-color:plum;
+}
+/* *{
+    color:brown;
+} */
+#headingone{
+    color:yellow;
+}
+#headingtwo{
+    color:beige;
+}
+.kl{
+    color:tomato;
+}
+#box{
+    background:rgb(10, 24, 59);
+    color:chocolate;
+    border: "5";
+    border-color: black;
+}
+.heading{
+    color:red;
+}
+button{
+    color:green;
+}
