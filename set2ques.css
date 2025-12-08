@@ -1,0 +1,27 @@
+h2{
+    text-align:center;
+    color:blue;
+    text-decoration:aqua underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase ;
+    /* text-transform: to set value uppercase,lowercase,capitalise etc; */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#box{
+    text-transform: capitalize;
+    color:blueviolet;
+    margin:10px 10px;
+    text-align: center;
+    border: 3px solid black;
+    height:auto;
+    width: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+

@@ -1,0 +1,38 @@
+p{
+    text-align:right;
+    /* in v can also use text-align right=end;left=start; */
+    color:blue;
+    background-color: pink;
+    line-height:25px;
+}
+h1{
+    text-align: center;
+    text-decoration: green underline ;
+}
+ .box{       
+ /* (.)represents class
+    (#)reprents for id */ 
+background-color: aqua;
+height:350px;
+width:350px;
+text-align: center;
+color:chocolate;
+align-content:center;
+margin:0 auto; 
+
+}
+button{
+    background-color: aquamarine;
+    color:blueviolet;
+    font-size: medium;
+    font: 400;
+}
+#id{
+    color:blueviolet;
+    font-weight: bolder;
+    background-color: thistle;
+    height: 100px;
+    width: 352px;
+    margin:left;
+    font-family: Arial, Helvetica, sans-serif;
+}
